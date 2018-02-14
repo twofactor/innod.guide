@@ -15,3 +15,61 @@
 .pagination {
   margin-bottom: 30px;
 }
+
+.card {
+  padding: 0;
+  border: none;
+  border-radius: 0px;
+}
+
+.card-body {
+  padding: 0;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+  margin-bottom: 80px;
+  background-color: #ffffff;
+}
+
+img.card-img-top {
+  border-radius: 0;
+}
+
+div.card-body {
+  padding-top: 16px;
+  margin-bottom: 16px;
+}
+
+h4.card-title {
+  color: #333333;
+  font-weight: bold;
+}
+
+h4.card-title a {
+  color: #333333;
+  font-weight: bold;
+}
+
+p.card-text {
+  color: #555555;
+  font-size: 10;
+}
+
+a.navbar-brand {
+  font-weight: bold;
+  color: #333333;
+}
+
+body {
+  text-transform: lowercase;
+}
+
+.card-img-top:hover {
+  opacity: 0.8;
+  transition: all 300ms cubic-bezier(0.39, 0.575, 0.565, 1);
+}
+
+footer.py-5.bg-light {
+  background-color: #ffffff;
+}
+
